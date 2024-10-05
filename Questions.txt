@@ -1,0 +1,9 @@
+How are C++ libraries used to make efficient code through 
+memory management, and how are these then implemented in Python?
+
+
+1. How does memory work in c++
+- Float vs. double in memory
+- pointers
+- Why specific typing is better than dynamic offered by Python
+- Compiler vs. Dynamic? (C++ vs. python)
